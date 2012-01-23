@@ -29,7 +29,13 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
                                          <apex:inputText />
         
                                          <apex:selectList size="1">
@@ -37,7 +43,14 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+  
                                          <apex:inputText />
         
                                          <apex:selectList size="1">
@@ -45,7 +58,15 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
+
                                          <apex:inputText />
                                          
                                      </apex:pageBlockSection>
@@ -57,7 +78,13 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
                                          <apex:inputText />
         
                                          <apex:selectList size="1">
@@ -65,7 +92,13 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
                                          <apex:inputText />
         
                                          <apex:selectList size="1">
@@ -73,7 +106,14 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
+
                                          <apex:inputText />
                                          
                                      </apex:pageBlockSection>
@@ -85,7 +125,13 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
                                          <apex:inputText />
         
                                          <apex:selectList size="1">
@@ -93,7 +139,13 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
                                          <apex:inputText />
         
                                          <apex:selectList size="1">
@@ -101,7 +153,13 @@
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                              <apex:selectOption itemLabel="Name" itemValue="Name"/>
                                          </apex:selectList>
-                                         equals
+
+                                         <apex:selectList size="1">
+                                             <apex:selectOption itemLabel="Equals" itemValue="Equals"/>
+                                             <apex:selectOption itemLabel="Not Equals" itemValue="Not Equals"/>
+                                             <apex:selectOption itemLabel="Like" itemValue="Like"/>
+                                         </apex:selectList>
+
                                          <apex:inputText />
                                          
                                      </apex:pageBlockSection>
